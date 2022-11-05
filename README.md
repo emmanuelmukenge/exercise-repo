@@ -1,1 +1,1 @@
-# exercise_repo
+# exercise-repo
